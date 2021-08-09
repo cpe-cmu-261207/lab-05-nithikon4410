@@ -12,7 +12,7 @@ return (
               <Header firstname="Nithikon" lastname="Jansanitsri" student_id={630612102} ></Header>
           <Todo/>
 
-          <Footer copyright = "Copyright © 2021 Minimal todo List by Nithikon Jansanitsri"></Footer>
+          <Footer copyright = "Copyright © 2021 "></Footer>
         </div> 
   );
 }
